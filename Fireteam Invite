@@ -1,0 +1,2 @@
+//// creates a firteam and invites your team
+bind [YOUR KEY] "fireteam create; vote no; fireteam invite 1; wait 1; fireteam invite 2; wait 1; fireteam invite 3; wait 1; fireteam invite 4; wait 1; fireteam invite 5; wait 1; fireteam invite 6; wait 1; fireteam invite 7; wait 1; fireteam invite 8; wait 1; fireteam invite 9; wait 1; fireteam invite 10"
